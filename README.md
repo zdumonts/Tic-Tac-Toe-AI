@@ -5,3 +5,4 @@ Used MiniMax Algorithm to create Tic Tac Toe AI
 - How to implement algorithms
 - Recursion
 - Inheritance
+- & Much more
